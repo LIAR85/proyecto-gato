@@ -5,6 +5,10 @@
 
 using namespace std;
 
+// Juego del Gato - Proyecto Final
+// Implementacion completa con interfaz de consola
+// Modos: Jugador vs Jugador, Jugador vs CPU
+
 class Gato {
 private:
     vector<vector<char>> tablero;
